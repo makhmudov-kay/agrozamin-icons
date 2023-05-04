@@ -3,6 +3,16 @@
   "displayName": "Agrozamin project icons",
   "description": "Colletction icon for define Agrozamin prjects by folder",
   "version": "0.0.1",
+  "publisher": "MaxKai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makhmudov-kay/agrozamin-icons"
+  },
+  "keywords": [
+    "agrozamin",
+    "agrozamin folder icons",
+    "icons"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },
