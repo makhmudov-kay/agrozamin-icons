@@ -1,0 +1,25 @@
+{
+  "iconDefinitions": {
+    "_folder_advertisement": {
+      "iconPath": "../icons/ozimizniki.svg"
+    },
+    "_folder_agro-business": {
+      "iconPath": "../icons/business.svg"
+    },
+    "_folder_agro-consult": {
+      "iconPath": "../icons/agro-maslahat.svg"
+    },
+    "_folder_agro-id": {
+      "iconPath": "../icons/agro-id.svg"
+    },
+    "_folder_agro-news": {
+      "iconPath": "../icons/agro-news.svg"
+    },
+    "_folder_agro-pay": {
+      "iconPath": "../icons/agro-pay.svg"
+    },
+    "_folder_agro-zamin": {
+      "iconPath": "../icons/agrozamin.svg"
+    }
+  }
+}

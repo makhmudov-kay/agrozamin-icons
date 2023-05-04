@@ -1,0 +1,21 @@
+{
+  "name": "agrozamin",
+  "displayName": "Agrozamin project icons",
+  "description": "Colletction icon for define Agrozamin prjects by folder",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "agrozamin",
+        "label": "Agrozamin icons",
+        "path": "./fileicons/turtles-icon-theme.json"
+      }
+    ]
+  }
+}
